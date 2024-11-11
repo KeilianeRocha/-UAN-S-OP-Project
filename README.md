@@ -21,6 +21,8 @@ Este projeto visa implementar o processo de **S&OP (Sales and Operations Plannin
 
 ## Ferramentas Utilizadas
 - **ERP para UAN**: Monitoramento de estoque e consumo.
+- **Sistemas de Previsão de Demanda**: Cálculo per capita e ajustes com fatores de cocção e correção.
+- **índice de resto-ingesta** relação entre a quantidade de alimentos não consumidos e a quantidade de alimentos distribuídos
 - **Sistemas de previsão de demanda**: Análise de dados históricos para projeções.
 - **Power BI ou Tableau**: Visualização dos KPIs e análise de dados.
 - **Microsoft Teams / Slack**: Comunicação interdepartamental.
